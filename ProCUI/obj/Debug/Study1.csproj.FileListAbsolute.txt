@@ -1,0 +1,12 @@
+F:\Project\Donetbar\Study1\Study1\bin\Debug\Study1.exe.config
+F:\Project\Donetbar\Study1\Study1\bin\Debug\Study1.exe
+F:\Project\Donetbar\Study1\Study1\bin\Debug\Study1.pdb
+F:\Project\Donetbar\Study1\Study1\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Project\Donetbar\Study1\Study1\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Project\Donetbar\Study1\Study1\obj\Debug\Study1.csprojResolveAssemblyReference.cache
+F:\Project\Donetbar\Study1\Study1\obj\Debug\Study1.Properties.Resources.resources
+F:\Project\Donetbar\Study1\Study1\obj\Debug\Study1.csproj.GenerateResource.Cache
+F:\Project\Donetbar\Study1\Study1\obj\Debug\Study1.exe
+F:\Project\Donetbar\Study1\Study1\obj\Debug\Study1.pdb
+F:\Project\Donetbar\Study1\Study1\obj\Debug\Study1.Login.resources
+F:\Project\Donetbar\Study1\Study1\obj\Debug\Study1.frmMain.resources

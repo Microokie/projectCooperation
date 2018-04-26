@@ -1,0 +1,9 @@
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\bin\Debug\ProCBLL.dll
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\bin\Debug\ProCBLL.pdb
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\bin\Debug\ProCDAL.dll
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\bin\Debug\ProCModel.dll
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\bin\Debug\ProCDAL.pdb
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\bin\Debug\ProCModel.pdb
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\obj\Debug\ProCBLL.csprojResolveAssemblyReference.cache
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\obj\Debug\ProCBLL.dll
+F:\Project\Donetbar\ProjectCooperation\ProCBLL\obj\Debug\ProCBLL.pdb

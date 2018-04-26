@@ -1,0 +1,12 @@
+F:\Project\Donetbar\ProjectCooperation\ProCUI\obj\Debug\ProCUI.csprojResolveAssemblyReference.cache
+F:\Project\Donetbar\ProjectCooperation\ProCUI\obj\Debug\ProCUI.csproj.GenerateResource.Cache
+F:\Project\Donetbar\ProjectCooperation\ProCUI\obj\Debug\ProjectCooperation.exe
+F:\Project\Donetbar\ProjectCooperation\ProCUI\obj\Debug\ProjectCooperation.pdb
+F:\Project\Donetbar\ProjectCooperation\ProCUI\bin\Debug\ProjectCooperation.exe
+F:\Project\Donetbar\ProjectCooperation\ProCUI\bin\Debug\ProjectCooperation.pdb
+F:\Project\Donetbar\ProjectCooperation\ProCUI\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Project\Donetbar\ProjectCooperation\ProCUI\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Project\Donetbar\ProjectCooperation\ProCUI\obj\Debug\ProjectCooperation.ProCmain.resources
+F:\Project\Donetbar\ProjectCooperation\ProCUI\obj\Debug\ProjectCooperation.Login.resources
+F:\Project\Donetbar\ProjectCooperation\ProCUI\obj\Debug\ProjectCooperation.Properties.Resources.resources
+F:\Project\Donetbar\ProjectCooperation\ProCUI\bin\Debug\ProjectCooperation.exe.config

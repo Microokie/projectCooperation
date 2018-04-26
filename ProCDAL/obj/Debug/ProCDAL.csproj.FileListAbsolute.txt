@@ -1,0 +1,7 @@
+F:\Project\Donetbar\ProjectCooperation\ProCDAL\bin\Debug\ProCDAL.dll
+F:\Project\Donetbar\ProjectCooperation\ProCDAL\bin\Debug\ProCDAL.pdb
+F:\Project\Donetbar\ProjectCooperation\ProCDAL\bin\Debug\ProCModel.dll
+F:\Project\Donetbar\ProjectCooperation\ProCDAL\bin\Debug\ProCModel.pdb
+F:\Project\Donetbar\ProjectCooperation\ProCDAL\obj\Debug\ProCDAL.csprojResolveAssemblyReference.cache
+F:\Project\Donetbar\ProjectCooperation\ProCDAL\obj\Debug\ProCDAL.dll
+F:\Project\Donetbar\ProjectCooperation\ProCDAL\obj\Debug\ProCDAL.pdb
