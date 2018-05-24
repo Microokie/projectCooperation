@@ -1,0 +1,30 @@
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\bin\Debug\MetroBill.exe
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\bin\Debug\MetroBill.pdb
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.csprojResolveAssemblyReference.cache
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.ClientControl.resources
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.InvoiceControl.resources
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.MainForm.resources
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.Properties.Resources.resources
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.StartControl.resources
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.StartupForm.resources
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.csproj.GenerateResource.Cache
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.exe
+C:\Users\microokie\Documents\DotNetBar WinForms Samples\MetroBill\C#\obj\Debug\MetroBill.pdb
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.exe
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.pdb
+D:\DotNetBarSamples\MetroBill\C#\bin\Debug\MetroBill.exe
+D:\DotNetBarSamples\MetroBill\C#\bin\Debug\MetroBill.pdb
+D:\DotNetBarSamples\MetroBill\C#\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DotNetBarSamples\MetroBill\C#\bin\Debug\DevComponents.DotNetBar2.xml
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.csprojResolveAssemblyReference.cache
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.ClientControl.resources
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.InvoiceControl.resources
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.MainForm.resources
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.Properties.Resources.resources
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.StartControl.resources
+D:\DotNetBarSamples\MetroBill\C#\obj\Debug\MetroBill.csproj.GenerateResource.Cache
+D:\Study\projectCooperation\MetroBill\bin\Debug\MetroBill.exe.config
+D:\Study\projectCooperation\MetroBill\obj\Debug\MetroBill.exe
+D:\Study\projectCooperation\MetroBill\obj\Debug\MetroBill.pdb

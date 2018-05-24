@@ -1,15 +1,9 @@
 ﻿using DevComponents.DotNetBar;
+using ProCBLL;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProjectCooperation
+namespace ProCUI
 {
     public partial class Login : Office2007Form
     {
@@ -27,13 +21,13 @@ namespace ProjectCooperation
         {
             if (e.KeyCode == Keys.Enter)
             {
-                textBoxX2.Focus();
+                txtLogpwd.Focus();
             }
         }
 
         private void buttonX1_Click(object sender, EventArgs e)
         {
-            if (textBoxX1.Text.Equals("admin") && textBoxX2.Text.Equals("123"))
+            if (loginBLL.login(txtLogname.Text.Trim(),txtLogpwd.Text.Trim()))
             {
                 this.DialogResult = DialogResult.OK;
                 this.Dispose();

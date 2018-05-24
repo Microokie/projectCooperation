@@ -5,3 +5,10 @@ F:\Project\Donetbar\ProjectCooperation\ProCDAL\bin\Debug\ProCModel.pdb
 F:\Project\Donetbar\ProjectCooperation\ProCDAL\obj\Debug\ProCDAL.csprojResolveAssemblyReference.cache
 F:\Project\Donetbar\ProjectCooperation\ProCDAL\obj\Debug\ProCDAL.dll
 F:\Project\Donetbar\ProjectCooperation\ProCDAL\obj\Debug\ProCDAL.pdb
+D:\Study\projectCooperation\ProCDAL\bin\Debug\ProCDAL.dll
+D:\Study\projectCooperation\ProCDAL\bin\Debug\ProCDAL.pdb
+D:\Study\projectCooperation\ProCDAL\bin\Debug\ProCModel.dll
+D:\Study\projectCooperation\ProCDAL\bin\Debug\ProCModel.pdb
+D:\Study\projectCooperation\ProCDAL\obj\Debug\ProCDAL.csprojResolveAssemblyReference.cache
+D:\Study\projectCooperation\ProCDAL\obj\Debug\ProCDAL.dll
+D:\Study\projectCooperation\ProCDAL\obj\Debug\ProCDAL.pdb

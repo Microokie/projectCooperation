@@ -7,3 +7,12 @@ F:\Project\Donetbar\ProjectCooperation\ProCBLL\bin\Debug\ProCModel.pdb
 F:\Project\Donetbar\ProjectCooperation\ProCBLL\obj\Debug\ProCBLL.csprojResolveAssemblyReference.cache
 F:\Project\Donetbar\ProjectCooperation\ProCBLL\obj\Debug\ProCBLL.dll
 F:\Project\Donetbar\ProjectCooperation\ProCBLL\obj\Debug\ProCBLL.pdb
+D:\Study\projectCooperation\ProCBLL\bin\Debug\ProCBLL.dll
+D:\Study\projectCooperation\ProCBLL\bin\Debug\ProCBLL.pdb
+D:\Study\projectCooperation\ProCBLL\bin\Debug\ProCDAL.dll
+D:\Study\projectCooperation\ProCBLL\bin\Debug\ProCModel.dll
+D:\Study\projectCooperation\ProCBLL\bin\Debug\ProCDAL.pdb
+D:\Study\projectCooperation\ProCBLL\bin\Debug\ProCModel.pdb
+D:\Study\projectCooperation\ProCBLL\obj\Debug\ProCBLL.csprojResolveAssemblyReference.cache
+D:\Study\projectCooperation\ProCBLL\obj\Debug\ProCBLL.dll
+D:\Study\projectCooperation\ProCBLL\obj\Debug\ProCBLL.pdb

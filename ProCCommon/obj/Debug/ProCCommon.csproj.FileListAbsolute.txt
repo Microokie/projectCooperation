@@ -1,4 +1,0 @@
-F:\Project\Donetbar\ProjectCooperation\ProCCommon\bin\Debug\ProCCommon.dll
-F:\Project\Donetbar\ProjectCooperation\ProCCommon\bin\Debug\ProCCommon.pdb
-F:\Project\Donetbar\ProjectCooperation\ProCCommon\obj\Debug\ProCCommon.dll
-F:\Project\Donetbar\ProjectCooperation\ProCCommon\obj\Debug\ProCCommon.pdb
